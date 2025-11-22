@@ -1,4 +1,4 @@
-package org.ciaf.EjemploUno;
+package org.ciaf.EjemploArboles;
 
 class Nodo {
     int dato;

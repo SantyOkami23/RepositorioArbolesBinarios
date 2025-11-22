@@ -1,4 +1,4 @@
-package org.ciaf.EjemploUno.recorrido;
+package org.ciaf.EjemploArboles.recorrido;
 
 public class TresRecorridosSimplesArbol {
     public static void main(String[] args) {
